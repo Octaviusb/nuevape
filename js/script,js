@@ -1,0 +1,5 @@
+// Ejemplo de script para manejar la interactividad
+document.addEventListener('DOMContentLoaded', () => {
+    console.log('Página cargada');
+    // Tu código JS aquí
+});
